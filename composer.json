@@ -1,6 +1,6 @@
 {
     "name": "artistlu/alipay",
-    "description": "支付宝支付接口封装",
+    "description": "支付宝sdk封装",
     "keywords": ["alipay", "pay"],
     "type": "library",
     "license": "MIT",
