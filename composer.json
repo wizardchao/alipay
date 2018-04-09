@@ -1,0 +1,22 @@
+{
+    "name": "artistlu/alipay",
+    "description": "支付宝支付接口封装",
+    "keywords": ["alipay", "pay"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ArtistLu",
+            "email": "1216160989@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "files": [
+            "src/AliPay.php"
+        ]
+    }
+}
